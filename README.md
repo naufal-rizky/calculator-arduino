@@ -26,15 +26,6 @@ Proyek ini adalah simulasi pembuatan kalkulator sederhana menggunakan LCD 16x2, 
 3. Tekan tombol '=' untuk melihat hasil perhitungan.
 4. Tekan tombol 'C' untuk menghapus dan memulai perhitungan baru.
 
-## Kustomisasi
-
-Jika Anda ingin menambahkan fitur atau memodifikasi proyek ini, Anda dapat melakukan hal-hal berikut:
-
-- Menambahkan lebih banyak operasi matematika.
-- Menyesuaikan tata letak keypad.
-- Menambahkan fitur penyimpanan angka.
-- Mengubah tampilan LCD.
-
 ## Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, lakukan perubahan, dan ajukan pull request.
