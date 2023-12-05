@@ -72,7 +72,7 @@ void loop()
             }
 
             int numLength = Num2.length();
-lcd.setCursor(0,1);
+            lcd.setCursor(0, 1);
             lcd.print(Num2);
             final = true;
         }
@@ -82,7 +82,7 @@ lcd.setCursor(0,1);
         if (!valOnePresent)
         {
             valOnePresent = true;
-lcd.setCursor(15,0);
+            lcd.setCursor(15, 0);
             op = key;
             lcd.print(op);
         }
